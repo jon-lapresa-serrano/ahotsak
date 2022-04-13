@@ -1,0 +1,13 @@
+1-Gaztaiña asko ibiltzen zan garai baten, asko.
+Gaztaiña klasiak izango zien hemen, ezta?
+6-Oain gehio kasik. Galdu ein die ya, baiño.
+1-Gaztaiñ beltza ta bazien.
+6-&quot;Inguru-txurie&quot; ta. &quot;Jaurei&quot; ta, &quot;hosto beltza&quot; ta.
+5-Danen onena &quot;Iñurri beltxa&quot;. Jaulegi txarrena, dena puxkatu eitten da. Eta Iñurri beltxa izaten da gaztaiñe osoa.
+Onena zein zan?
+5-Iñurri beltxa
+6-Txertaka ere gaztaiña ona da, e. Txertatu gabea.
+5-Ez, ez. Iñurri beltxa txertatue eta ondo txertatue izaten da gaiñea. Txertaka jeneralen txatxarra izaten da.
+6-Ale xeheaoa.
+1-Hori da berez etorritakoa, bate kasorik ein gabe. [...]
+5-Makiña bat amorrazio pasatako jaiek izaten nizkin. Jaien txertatu ber izaten zien gure etxen beti eta jai atsalden gu plazaa jun behar eta aittekin erretxiña berotzera mendin. Egon hai han!

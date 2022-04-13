@@ -1,0 +1,33 @@
+1-Ordun neguako reserba ein behar izaten zendun lizar-hostoa, haik sekatu ta...
+6-Neguako ardintzat.
+Lizar hostoa ta?
+3-Igartutzen zien eta. Sekatuta, e.
+Adarra hartuta?
+5-Adarra. Gero adar harek baliotzen du babarrunentzako pardatarako.
+3-Bi urtekoa behar du, bi urtetik behin arbola bati kentzen zitzaion.
+6-BordA-ukuillun zutik jarri behar dezu sekatu arte. Zutik sekatzen danen ganba(ra)n pillatu.
+1-Hegaizek jotzen duenen... Bai, ilbeheran.
+Hori ganaduentzako?
+6-Oain jendeak pentsut eta ibiltzen du baiña ordun ez zan pentsue. Ahal zana eman behar izaten zan, belarra edo
+1-Garo zimela ere bai, sekatu ta zimeldu eta hue. Garo berdea.
+6-Usai earra izaten du garo zimelak. Kamaiñetan&#39;e ona izaten zan garo zimela.
+Garo zimela gorritutakoa?
+6-Ez, ez, berdea, sekatuta.
+2-Berdea dagola sekatu.
+6-Guk Letzalden txabolan kamaiñan lo hartu ta egin bear izaten gendun, mendin  Leitze alden eta txabolan eta, garo zimela giro onakin ondu baldin bazan izugarrizko usai earra. Usai bat izaten zun garo zimelak... Belarrak baiño hobea.
+1-Zeak ere bai, mendin ibiltzen zien ikazkiñek&#39;e. [basolariek]&#39;e bai ta.
+5-Aiñarra ere bai asko.
+2-Ordun ikazkiña ta basolari asko izaten zan, eta haik danak txabolan...
+1-Koltxoiak oain bezelako aukeraik ez zan izaten ordun.
+2-Koltxoiak basuran ear askoak ikusten die baiño.
+Lizarra ardiei eta emateko  oso-osorik?
+2-Bere adarren.
+6-Belarra jarri [ganbelan] eta haren gaiñen jarri hostoa ta ederki jaten zittuen.
+2-Soil-soill eitten zittuen.
+6-Belarrai eutsi eitten zion. Gero adarrak pardataako modukoak zienak aparte. Txikik sue piztutzeko. Neguako sua piztutzeko.
+1-Oain gazteei alperrik da esatea gauza hoik, txorakeriekin ze ai zea?
+5-Esan, aitzeko bakarra, itteko ez.
+Eta lizarra? Besterik ez?
+4-Gerize ere bai. Araitzekin&#39;e bai, araitzekin&#39;e egin izandu da.
+5-Negun berriz pagoa botatzen zan behorrantzat zotza jateko.
+6-Behorrak beti hausnarran behar du. Animalietan behorra da onena. Hausnarrik ez du /eztu/, ardik eta behiek eta badue baiña behorrak ez du ta eta beti jaten ari behar du behorrak.
